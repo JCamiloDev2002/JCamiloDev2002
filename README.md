@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @JCamiloDev2002<br>- 👀 I’m interested in books, technology, science, design, economy, philosophy, math and art<br>- 🌱 I’m currently javascript<br>- - 💞️ I want to learn elixir and go
+👋 Hi, I’m @JCamiloDev2002<br> 👀 I’m interested in books, technology, science, design, economy, philosophy, math and art<br> 🌱 I’m currently javascript<br> 💞️ I want to learn elixir and go
 
 
 # 💻 Tech Stack:
